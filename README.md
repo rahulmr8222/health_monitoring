@@ -19,7 +19,7 @@ An interactive web application and risk assessment console designed for astronau
 ---
 
 ## 🌐 Live Demo & Presentation
-* **Interactive App:** [View Live App](https://rahulmr2222.github.io/health_monitoring/)
+* **Interactive App:** [View Live App](https://rahulmr8222.github.io/health_monitoring/)
 * **Pitch Deck Slides:** [View Presentation](https://rahulmr2222.github.io/health_monitoring/slides.html)
 
 ---
