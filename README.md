@@ -7,7 +7,7 @@
 ---
 
 ## 🌐 Live Demo & Presentation
-- **Interactive App:** [Launch ASTRA-MED Console](https://rahulmr2222.github.io/health_monitoring/)
+- **Interactive App:** [Launch ASTRA-MED Console](https://rahulmr8222.github.io/health_monitoring/)
 - **Pitch Deck Slides:** [View 7-Slide Presentation](https://rahulmr2222.github.io/health_monitoring/slides.html)
 
 ---
