@@ -18,9 +18,13 @@ An interactive web application and risk assessment console designed for astronau
 
 ---
 
-## 🌐 Live Demo & Presentation
-* **Interactive App:** [View Live App](https://rahulmr8222.github.io/health_monitoring/)
-* **Pitch Deck Slides:** [View Presentation](https://rahulmr2222.github.io/health_monitoring/slides.pdf)
+# 🚀 ASTRA-MED: Astronaut Health & Spaceflight Risk Assessment Console
+*Submission for the 2026 NASA Space Apps Challenge*
+
+[![View Presentation Slides](https://img.shields.io/badge/📊_View_Pitch_Deck-7_Slides-blue?style=for-the-badge&logo=HTML5)](https://rahulmr2222.github.io/health_monitoring/slides.html)
+[![Live Application](https://img.shields.io/badge/🌐_Launch_App-Interactive_Console-green?style=for-the-badge&logo=GitHub)](https://rahulmr2222.github.io/health_monitoring/)
+
+---
 
 ---
 
